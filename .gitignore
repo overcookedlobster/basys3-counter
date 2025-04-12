@@ -1,0 +1,15 @@
+# Vivado generated files
+*.jou
+*.log
+*.backup.*
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.xpr
+vivado_project/
+
+# Other temporary files
+*.swp
+*.swo
+
