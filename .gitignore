@@ -8,7 +8,7 @@
 *.runs/
 *.xpr
 vivado_project/
-
+.Xil/
 # Other temporary files
 *.swp
 *.swo
