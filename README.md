@@ -46,3 +46,4 @@ vivado -mode tcl -source program_fpga.tcl
 - Ensure the Basys3 board is connected via USB.
 - Power on the board before running the programming script.
 # basys3-counter
+# basys3-counter
